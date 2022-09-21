@@ -25,6 +25,7 @@ html, body {
 .bottom-container {
     display: table-row;
     height: 0;
+    font-size:1.5vh;
 }
 .nav-item{
   margin-right: 20px;
