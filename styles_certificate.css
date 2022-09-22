@@ -12,7 +12,11 @@
 }
 .v{
 font-size:1.5vh;}
-
+.navbar-brand{
+font-family: 'Marck Script', cursive;
+  margin:auto;
+  font-size:3vh;
+}
 
 
 html, body {
