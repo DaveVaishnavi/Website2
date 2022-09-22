@@ -2,6 +2,11 @@
   margin-right: 20px;
   margin-left: 20px;
 }
+.navbar-brand{
+font-family: 'Marck Script', cursive;
+  margin:auto;
+  font-size:3vh;
+}
 .v{
 font-size:1.5vh;}
 .bottom-container{
