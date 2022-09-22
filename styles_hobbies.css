@@ -8,6 +8,11 @@ body{
     min-height: 100vh;
     flex-direction: column;
 }
+.navbar-brand{
+font-family: 'Marck Script', cursive;
+  margin:auto;
+  font-size:3vh;
+}
 .v{
 font-size:1.5vh;}
 
