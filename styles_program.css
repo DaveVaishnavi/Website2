@@ -17,7 +17,11 @@ html, body {
     margin: 0;
     display: table;
 }
-
+.navbar-brand{
+font-family: 'Marck Script', cursive;
+  margin:auto;
+  font-size:3vh;
+}
 .bottom-container {
     display: table-row;
     height: 0;
