@@ -10,7 +10,8 @@
   display: grid;
   height: 100%;
 }
-
+.v{
+font-size:1.5vh;}
 
 
 html, body {
