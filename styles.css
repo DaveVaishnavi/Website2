@@ -17,7 +17,7 @@ font-size:1.5vh;}
 }
 .navbar-brand{
 font-family: 'Bungee Spice', cursive;
-  text-align:center;
+  margin:auto;
   font-size:2vh;
 }
 html, body {
