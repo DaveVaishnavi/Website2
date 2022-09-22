@@ -1,7 +1,7 @@
  background-image: url("hobbies.jpg");
   position: relative;
 }
-body {
+/* body {
     margin: 0;
     display: flex;
     min-height: 100vh;
@@ -18,13 +18,20 @@ font-size:1.5vh;}
 main {
     display: block;
     flex: 1 0 auto;
-}
+} */
 html, body {
     height: 100%;
     width: 100%;
     margin: 0;
     display: table;
 }
+.navbar-brand{
+font-family: 'Marck Script', cursive;
+  margin:auto;
+  font-size:3vh;
+}
+.v{
+font-size:1.5vh;}
 .bottom-container {
     display: table-row;
     height: 0;
