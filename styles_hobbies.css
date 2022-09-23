@@ -7,7 +7,7 @@
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-}
+}*/
 .navbar-brand{
 font-family: 'Marck Script', cursive;
   margin:auto;
@@ -15,7 +15,7 @@ font-family: 'Marck Script', cursive;
 }
 .v{
 font-size:1.5vh;}
-main {
+/*main {
     display: block;
     flex: 1 0 auto;
 } */
