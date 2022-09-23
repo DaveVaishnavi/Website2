@@ -29,8 +29,8 @@ html, body {
 }
 .content{
   margin: 100px 0;
-  margin-right: 50px;
-  margin-left: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
 }
 .copyright{
   color: #fff;
@@ -45,7 +45,7 @@ html, body {
   font-size: 2vh;
 }
 .card{
-  margin-bottom: 5%;
+  margin-bottom: 20%;
 }
 p{
   color: #fff;
