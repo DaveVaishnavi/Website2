@@ -1,6 +1,12 @@
 /* .dropdown{
   position: relative;
 }
+.head1{
+font-size: 4vh;
+}
+.body1{
+font-size: 3vh;
+}
 .dropdown-menu{
   display: flex;
   flex-direction: column;
